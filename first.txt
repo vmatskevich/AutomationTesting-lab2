@@ -1,3 +1,5 @@
 i am trying to merge branches
 !!!!!!!!
 pryvet
+i an trying to solve megre conflict!!!
+i created two self-titled file in different branches 
